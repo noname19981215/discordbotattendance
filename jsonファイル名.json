@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "discordbotattendance",
+  "private_key_id": "プライベートキーID",
+  "private_key": "プライベートキー",
+  "client_email": "クライアントEMAIL",
+  "client_id": "クライアントID",
+  "auth_uri": "認証URI",
+  "token_uri": "トークンURI",
+  "auth_provider_x509_cert_url": "認証プロバイダーの証明書URL",
+  "client_x509_cert_url": "クライアント証明書URL"
+}
